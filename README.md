@@ -1,2 +1,2 @@
-# yrdsb-mark-calculator
-Mark calculator for yrdsb students
+# TAPP-Images
+Image CDN repository for images used by the extension
